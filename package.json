@@ -2,7 +2,7 @@
 "name": "Dota2 BOT",
 "description": "Im a bot nothing else im just a bot okay?So dont meKeep calm and play dota2",
 "version": "5.7.1",
-"main": "dota2.js",
+"main": "bot.js",
 "scripts": {
  "start": "node dota2.js"
  },
