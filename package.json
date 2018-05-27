@@ -1,0 +1,13 @@
+{
+"name": "Dota2 Bot"
+"description": "If you read this you are idiot"
+"version": "1.2.5"
+"main": "dota2.js"
+"scripts": {
+ "start": "node dota2.js"
+ },
+ "dependencies": {
+ "discord.js": "11.1.0"
+ "request": "2.01.0"
+ }
+ }
